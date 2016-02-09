@@ -9,8 +9,8 @@
 5. Output file will be create with same name as source file with extension .usfm
 
 ## Not like:
-1  हम मसीह के लिये मूर्ख है; परन्‍तु तुम मसीह में बुद्धिमान हो:
-हम निर्बल हैं परन्‍तु तुम बलवान हो: तुम आदर पाते हो, परन्‍तु हम निरादर होते हैं।
+1  हम मसीह के लिये मूर्ख है; परन्‍तु तुम मसीह में बुद्धिमान हो:\n
+	हम निर्बल हैं परन्‍तु तुम बलवान हो: तुम आदर पाते हो, परन्‍तु हम निरादर होते हैं।
 
 ## Make file executable with below command from console/ Terminal
 
