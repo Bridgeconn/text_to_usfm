@@ -1,12 +1,14 @@
 # TEXT to USFM Conver
+## Convert more than one file at one time
 
 ## Please follow the Instructions:
 
 1. First line of file should not be blank.
 2. Two space or tab between verse number and verse.
-3. All verse should be in single line 
+3. All verse should be in single line (enter should not be present between sentences
+4. All original file should be inside folder. (folder name can be anything)
 4. File name should be single word (like: 1Corinthians.txt)
-5. Output file will be create with same name as source file with extension .usfm
+5. Output file will be create inside output_file folder with extension .usfm
 
 ## Not like:
 1  हम मसीह के लिये मूर्ख है; परन्‍तु तुम मसीह में बुद्धिमान हो:\n
@@ -18,6 +20,6 @@ $ chmod +x text_to_usfm.rb
 
 ## Please check example file with below command:
 
-$ ./text_to_usfm.rb 1Corinthians.txt
+$ ./text_to_usfm.rb
 
 
